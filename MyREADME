@@ -1,0 +1,3 @@
+This is the first version of modified Jetson-inference which is used to detect defect using Basler Camera
+
+1. Data Document is Saving to Local Disk, and plan to commit to BaiduNetDisk
